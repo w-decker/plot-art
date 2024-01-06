@@ -14,6 +14,7 @@ grid off
 shading interp
 colormap(a1, "jet")
 
+
 a2 = subplot(122);
 contourf(Y)
 axis off
